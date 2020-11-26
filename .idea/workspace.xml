@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="847684e4-50c0-4d16-8942-c35a66c3d498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eII23zwbWf4kHc6TShRHKhiGXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Application.ThreeSumClosest">
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.www.FourSum" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.www.ThreeSum" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.www.ThreeSumClosest" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.com.TwoSum" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.www.TwoSum" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.www.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.FourSum" />
+        <item itemvalue="Application.ThreeSum (1)" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.TwoSum (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="847684e4-50c0-4d16-8942-c35a66c3d498" name="Default Changelist" comment="" />
+      <created>1594002469282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594002469282</updated>
+      <workItem from="1594002473594" duration="6072000" />
+      <workItem from="1594096631787" duration="4677000" />
+      <workItem from="1594116777523" duration="3142000" />
+      <workItem from="1594174635487" duration="600000" />
+      <workItem from="1594259368865" duration="3711000" />
+      <workItem from="1594351129097" duration="607000" />
+      <workItem from="1594384682426" duration="1898000" />
+      <workItem from="1594564631142" duration="869000" />
+      <workItem from="1594690134039" duration="6864000" />
+      <workItem from="1594960698483" duration="1425000" />
+      <workItem from="1594973892558" duration="4691000" />
+      <workItem from="1595412041299" duration="2642000" />
+      <workItem from="1595573989564" duration="2333000" />
+      <workItem from="1596788320023" duration="1844000" />
+      <workItem from="1602461659643" duration="868000" />
+      <workItem from="1602470889518" duration="8000" />
+      <workItem from="1603458871272" duration="1911000" />
+      <workItem from="1603845787618" duration="1133000" />
+      <workItem from="1604802266018" duration="8000" />
+      <workItem from="1605923595085" duration="4112000" />
+      <workItem from="1606216990821" duration="12286000" />
+      <workItem from="1606397442835" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="223" key="GridCell.Tab.0.bottom" timestamp="1606309775928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606309775928" />
+    <state width="1237" height="223" key="GridCell.Tab.0.center" timestamp="1606309775928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606309775928" />
+    <state width="1237" height="223" key="GridCell.Tab.0.left" timestamp="1606309775909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606309775909" />
+    <state width="1237" height="223" key="GridCell.Tab.0.right" timestamp="1606309775928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606309775928" />
+    <state width="1237" height="223" key="GridCell.Tab.1.bottom" timestamp="1606309775930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606309775930" />
+    <state width="1237" height="223" key="GridCell.Tab.1.center" timestamp="1606309775929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606309775929" />
+    <state width="1237" height="223" key="GridCell.Tab.1.left" timestamp="1606309775929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606309775929" />
+    <state width="1237" height="223" key="GridCell.Tab.1.right" timestamp="1606309775929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606309775929" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1606397709985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606397709985" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606397443022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606397443022" />
+    <state x="28" y="0" key="new project wizard" timestamp="1602461928302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1602461928302" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1606222388945">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606222388945" />
+  </component>
+</project>
